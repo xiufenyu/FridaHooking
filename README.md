@@ -1,0 +1,1 @@
+The scripts in this repository are used to hook Android apps by using Frida.
